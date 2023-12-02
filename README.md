@@ -15,27 +15,30 @@
 <br />
 
 <p align="center">
-[<img  alt="https://www.vyapardost.com/" width="40px" src="https://cdn-icons-png.flaticon.com/128/865/865051.png" />][website]
-[<img  alt="Twitter" width="40px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" />][twitter]
-[<img  alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
-[<img  alt="Instagram" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
-  
-  
+  <a href="https://www.vyapardost.com/">
+    <img alt="Website" width="40px" src="https://cdn-icons-png.flaticon.com/128/865/865051.png" />
+  </a>
+  <a href="https://twitter.com/sudarshan7120">
+    <img alt="Twitter" width="40px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/sudarshanmane/">
+    <img alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+  </a>
+  <a href="https://www.instagram.com/sudarshan_savvy/">
+    <img alt="Instagram" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+  </a>
 </p>
-
-<br />
 
 ## **Tech Toolbox 🧰**<br>
 
 <p align="left">
   
-  <img  alt="HTML5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img  alt="HTML5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img  alt="CSS3"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img  alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img  alt="TS"  src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge" />
 <img  alt="Git"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img  alt="GitHub"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-
 
 <br />
 <br />
@@ -49,15 +52,13 @@
 <br />
 
 <img  alt="React"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img  alt="Next.js"  src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img alt="Redux"src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img  alt="react router"  src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 <img  alt="react query"  src="https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white" />
 
 <!-- <img  alt="React Native"  src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
-<br />
-<br />
 
-<img  alt="Next.js"  src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <!-- <img alt="Prisma" src="https://img.shields.io/badge/Prisma-16A394?style=for-the-badge&logo=prisma&logoColor=black" /> -->
 <!--  <img alt="tRPC" src="https://img.shields.io/badge/tRPC-2596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white" /> -->
 
@@ -110,12 +111,17 @@
 <!-- <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /> -->
 <!-- <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> -->
 
-  
-  </p>
+</p>
 
+![image](https://user-images.githubusercontent.com/80418452/174444164-87c6386e-64af-4b18-bf74-fc27eb0a2efd.png)
 
+[website]: https://www.vyapardost.com/
+[linkedin]: https://www.linkedin.com/in/sudarshanmane/
+[twitter]: https://twitter.com/sudarshan7120
+[instagram]: https://www.instagram.com/sudarshan_savvy/
 
-<!-- <a><h2>My Github Stats 📊 </h2></a>
+<!-- 
+<a><h2>My Github Stats 📊 </h2></a>
 <div>
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=AlejoTorres2001&theme=react&custom_title=GitHub+Stats&hide_border=true"/>
@@ -153,11 +159,6 @@
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=AlejoTorres2001&row=4&theme=nord&no-frame=true"/>
 </div>
 -->
-![image](https://user-images.githubusercontent.com/80418452/174444164-87c6386e-64af-4b18-bf74-fc27eb0a2efd.png)
 
-[website]: https://www.vyapardost.com/
-[linkedin]: https://www.linkedin.com/in/sudarshanmane/
-[twitter]: https://twitter.com/sudarshan7120
-[instagram]: https://www.instagram.com/sudarshan_savvy/
 
 
